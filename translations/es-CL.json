@@ -1,0 +1,24 @@
+{ 
+    "modalClose" : "Cerrar",
+    "edit" : {
+        "title" : "Editar",
+        "button" : "Guardar"
+    },
+    "add" : {
+        "title" : "Nuevo Registro",
+        "button" : "Crear"
+    },
+    "delete" : {
+        "title" : "Eliminar Registro",
+        "button" : "Eliminar"
+    },
+	"deleteMessage" : "¿Está seguro que desea eliminar este registro?",
+    "success" : "Tarea realizada exitosamente!",
+    "error" : {
+		"message" : "Ocurrió un error",
+		"label" : "Error",
+		"responseCode" : "Código de Respuesta: ",
+		"required" : "Campo es obligatorio",
+		"unique" : "Valor duplicado"
+    }
+}
